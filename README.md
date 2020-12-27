@@ -1,3 +1,3 @@
 # Password-generator
 [RU] 🔐 Генератор паролей
-[EN] 🔐 Password Generator
+\n[EN] 🔐 Password Generator
